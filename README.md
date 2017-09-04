@@ -34,11 +34,6 @@ if an error occur：
 ![error image](http://img01.taopic.com/150508/318763-15050PU939.jpg)
 
 
-- formula within lines test：
+- formula：
 
-I am $x$
-
-- formula between lines test：
-$$
-\vec{AB} = \vec{OB} - \vec{OA}
-$$
+I am <a href="https://www.codecogs.com/eqnedit.php?latex=ax^2&plus;bx&plus;c" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^2&plus;bx&plus;c" title="ax^2+bx+c" /></a>
