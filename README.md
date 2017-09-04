@@ -33,6 +33,12 @@ if an error occur：
 
 ![error image](http://img01.taopic.com/150508/318763-15050PU939.jpg)
 
+
+- formula within lines test：
+
+I am $x$
+
+- formula between lines test：
 $$
-\vec{AB} = \vec{OB} - \ver{OA}
+\vec{AB} = \vec{OB} - \vec{OA}
 $$
