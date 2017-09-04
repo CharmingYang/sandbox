@@ -32,3 +32,7 @@ from repository：
 if an error occur：
 
 ![error image](http://img01.taopic.com/150508/318763-15050PU939.jpg)
+
+$$
+\vec{AB} = \vec{OB} - \ver{OA}
+$$
