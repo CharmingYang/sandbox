@@ -21,7 +21,7 @@ import pandas as pd
 
 - picture test：
 
-from websit：
+from website：
 
 ![image](http://img01.taopic.com/150508/318763-15050PU9398.jpg)
 
